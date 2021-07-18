@@ -1,0 +1,5 @@
+2ah 3ACCh 12345 3aCGh
+mov mo eax e c2 000000
+
+2a a2
+a. /

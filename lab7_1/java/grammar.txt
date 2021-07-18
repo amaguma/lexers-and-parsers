@@ -1,0 +1,13 @@
+
+Нормалья форма Грейбаха:
+
+S -> <AS | commentS | end
+A -> key_wordB | non_termF
+B -> <CD
+C -> non_term
+D -> >E
+E -> >
+F -> <GH
+G -> non_termG | termG | e
+H -> >K
+K -> <GH | >

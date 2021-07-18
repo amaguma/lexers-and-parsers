@@ -1,0 +1,7 @@
+12a
+(
+(* new
+line *)
+(* 2 *)*)
+case
+cas
